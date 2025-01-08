@@ -324,11 +324,11 @@ void displayBoard(char board[21][21], int x, int y)
 		{
 			if (i == 0)
 			{
-				cout << "    " << up << "\n";
+				cout << "\033[91m" << "    " << up << "\033[93m" << "\n";
 			}
 			else
 			{
-				cout << "    " << up << "\n";
+				cout << "\033[91m" << "    " << up << "\033[93m" << "\n";
 			}
 
 		}
@@ -342,7 +342,7 @@ void displayBoard(char board[21][21], int x, int y)
 	{
 		if (i == y)
 		{
-			cout << left << "   ";
+			cout << "\033[91m" << left << "\033[93m" << "   ";
 		}
 		else
 		{
