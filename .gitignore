@@ -1,6 +1,69 @@
-*.exe
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
 *.obj
-*.log
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
 *.dll
-*.sln
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio Code
 .vscode/
+
+# Code::Blocks
+*.layout
+*.depend
+*.cbp
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Other
+*.log
+.DS_Store
+Thumbs.db
