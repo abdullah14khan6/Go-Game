@@ -53,7 +53,6 @@ bool show = true;
 int main()
 {
 	startScreen();
-	//displayMenu();
 	return 0;
 }
 
