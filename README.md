@@ -4,8 +4,6 @@ A console-based implementation of the classic board game Go, featuring both sing
 This project demonstrates fundamental game development concepts including board state management, turn-based gameplay,
 and simple AI decision making.
 
-<img src="https://github.com/user-attachments/assets/56c09bf0-2640-46b8-91d3-f3a4724d7f39" width="300">
-
 ## 🎮 Features
 
 - Interactive console-based interface with colored pieces
@@ -75,7 +73,7 @@ and simple AI decision making.
 ## 🖥️ Sample Output
 ![image](https://github.com/user-attachments/assets/e6d11296-e2a3-4124-a0ad-ab4690cce3c2)
 ![image](https://github.com/user-attachments/assets/89dbfc0d-1cd6-43a6-af7a-6be1c4d2419c)
-
+<img src="https://github.com/user-attachments/assets/56c09bf0-2640-46b8-91d3-f3a4724d7f39" width="300">
 
 ## 📁 Project Structure
 ```
