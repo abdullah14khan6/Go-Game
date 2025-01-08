@@ -3,8 +3,8 @@
 A console-based implementation of the classic board game Go, featuring both single-player (vs AI) and multiplayer modes.
 This project demonstrates fundamental game development concepts including board state management, turn-based gameplay,
 and simple AI decision making.
-<img src="https://github.com/user-attachments/assets/56c09bf0-2640-46b8-91d3-f3a4724d7f39" width="300">
 
+<img src="https://github.com/user-attachments/assets/56c09bf0-2640-46b8-91d3-f3a4724d7f39" width="300">
 
 ## 🎮 Features
 
